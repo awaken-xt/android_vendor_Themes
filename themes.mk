@@ -445,3 +445,7 @@ PRODUCT_PACKAGES += \
     QSReflected \
     QSSurround \
     QSThin
+    
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
